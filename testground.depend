@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386639283 source:/home/turupawn/Projects/Codeblocks/testground/main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+
